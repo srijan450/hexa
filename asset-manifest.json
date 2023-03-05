@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/hexa/static/css/main.31d6cfe0.css",
+    "main.js": "/hexa/static/js/main.b31c9056.js",
+    "index.html": "/hexa/index.html",
+    "main.b31c9056.js.map": "/hexa/static/js/main.b31c9056.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.b31c9056.js"
+  ]
+}
